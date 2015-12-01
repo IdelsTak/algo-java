@@ -1,4 +1,4 @@
-This repository includes my algorithms implementation in python.
+This repository includes my algorithms implementation in Java.
 It's fun to write code in different languages.
 
 Algorithms and Data Structure Implementations, including:
