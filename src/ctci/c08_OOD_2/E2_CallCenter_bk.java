@@ -1,7 +1,7 @@
 /*
  */
 
-package t08_OOD_;
+package ctci.c08_OOD_2;
 
 import java.util.List;
 

@@ -10,7 +10,7 @@ TODO: tobe improved:
 	it's like service/consumer application
  */
 
-package t08_OOD_;
+package ctci.c08_OOD_2;
 
 import java.util.LinkedList;
 import java.util.Queue;

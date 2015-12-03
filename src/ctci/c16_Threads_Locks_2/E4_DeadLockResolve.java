@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package t08_OOD_;
+package ctci.c16_Threads_Locks_2;
 
-/**
- *
- * @author andy
+/*
+
+
  */
-public class E1_CardDeck {
-	//TODO: 8.1 Skip this first
+public class E4_DeadLockResolve {
+ //TODO: I may try to implement in my own way, at current, I just understand the implementation
 }
