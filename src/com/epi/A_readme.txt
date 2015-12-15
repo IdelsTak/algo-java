@@ -15,9 +15,21 @@ Exercieses from EPI: Elements of Programming Interviews
 
 TODO: 
     p50     E0509_Elias Gamma Coding
-    p50     E0510_GCD
+    p50     E0510_GCDReverse B
     p51     Computing X x Y without multiply
-    ??p55     E0602_LazyInit      don't understand meaning
+    p52     E0602_LazyInit      don't understand meaning
             E0603_MaxDifferenceKPairs   Done
+    P52     E0604
+            605
+            606
+            606
+            606
+            606
+            606
+            606
+            606
+
+            
+
 
 
